@@ -21,7 +21,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<!-- <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
 
 
 - 🔭 I’m a freshman of Posts and Telecommunications Institute of Technology. :grin:
@@ -173,6 +173,6 @@
 [instagram]: https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2
 [linkedin]: https://www.linkedin.com/in/tv-sai-sumanth-3b7811141/
 -----
-Credits: [SumanthTalluri](https://github.com/Sumanth-Talluri)
+Credits: [David Tran](https://github.com/dat3011vit)
 
 Last Edited on: 12/12/2020
